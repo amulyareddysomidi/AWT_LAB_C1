@@ -30,3 +30,7 @@ var server=http.createServer(function(req,res){
     }
 })
 server.listen(3000);
+
+demo.txt
+
+This is Web Technologies and Javascript
